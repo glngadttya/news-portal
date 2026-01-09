@@ -100,7 +100,7 @@ Table doesn't exist / Connection failed
 
 ## 📁 Struktur Project
 
-``` bash
+``` sql
 portal-berita/
 ├── config/
 │ └── database.php # Konfigurasi database
@@ -119,5 +119,4 @@ portal-berita/
 ```
 
 
-## © 2026 NewsHub Portal - Dibuat untuk membantu tugas sekolah
-
+### © 2026 NewsHub Portal
