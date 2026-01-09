@@ -109,7 +109,7 @@ portal-berita/
 │ └── init.php # Inisialisasi sistem
 ├── assets/
 │ ├── css/
-│ │ └── style.css # Styling profesional
+│ │ └── style.css # Styling page
 │ └── js/
 │ └── script.js # Interaktivitas & auto-update
 ├── index.php # Halaman utama portal
@@ -120,6 +120,7 @@ portal-berita/
 
 
 ### © 2026 News Portal - Dibuat Oleh @glngaadttya
+
 
 
 
