@@ -65,7 +65,7 @@ Website portal berita yang telah dibuat oleh @glngaadttya ini bertujuan untuk di
 
 ### **Masalah 1: Apache tidak bisa start**
 
-``` bash
+```
 Error: Apache shutdown unexpectedly
 ```
 **Solusi:**
@@ -76,7 +76,7 @@ Error: Apache shutdown unexpectedly
 
 ### **Masalah 2: Database error**
 
-``` bash
+```
 Table doesn't exist / Connection failed
 ```
 
@@ -100,7 +100,7 @@ Table doesn't exist / Connection failed
 
 ## 📁 Struktur Project
 
-``` text
+```
 portal-berita/
 ├── config/
 │ └── database.php # Konfigurasi database
@@ -120,4 +120,5 @@ portal-berita/
 
 
 ### © 2026 NewsHub Portal
+
 
