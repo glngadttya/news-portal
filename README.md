@@ -100,7 +100,7 @@ Table doesn't exist / Connection failed
 
 ## 📁 Struktur Project
 
-```
+``` bash
 portal-berita/
 ├── config/
 │ └── database.php # Konfigurasi database
@@ -120,5 +120,6 @@ portal-berita/
 
 
 ### © 2026 NewsHub Portal
+
 
 
