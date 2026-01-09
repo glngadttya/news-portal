@@ -8,7 +8,7 @@ Website portal berita yang telah dibuat oleh @glngaadttya ini bertujuan untuk di
 
 - **Auto Create Database** - Database otomatis terbuat saat pertama kali diakses
 - **Memberikan Berita Terbaru** - Data berita langsung dari API Kompas terkini
-- **Menggunakan Sistem Otomatis** - Update berita otomatis setiap 2 jam (tanpa perlu refresh manual)
+- **Menggunakan Sistem Otomatis** - Update berita otomatis (tanpa perlu refresh manual)
 - **Design Modern, Simple, Responsive** - Tampilan profesional dengan kategori filter dan mobile-friendly
 
 ---
@@ -117,5 +117,6 @@ portal-berita/
 ├── update.php # Update berita manual (hidden)
 └── README.md # Dokumentasi ini
 ```
+
 
 ## © 2026 NewsHub Portal - Dibuat untuk membantu tugas sekolah
