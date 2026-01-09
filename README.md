@@ -119,7 +119,8 @@ portal-berita/
 ```
 
 
-### © 2026 NewsHub Portal
+### © 2026 News Portal - Dibuat Oleh @glngaadttya
+
 
 
 
